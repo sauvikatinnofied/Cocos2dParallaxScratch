@@ -13,4 +13,5 @@
     
 }
 
++(instancetype)scene;
 @end
